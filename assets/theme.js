@@ -3321,7 +3321,7 @@ $(function() {
     $('.selector-wrapper select').val(selected_value).trigger('change');
 
   });
-
+ 
   //$(document).on(
    // 'change', 
    // '#addtc-sticky-variant-selector select', 
